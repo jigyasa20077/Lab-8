@@ -1,0 +1,3 @@
+Day 8 — Workplace Writing II
+
+Day 8 focused on maintaining accuracy while using Generative AI for summarisation and report preparation. A passenger-service report was summarised while preserving important facts, figures, limitations and the original meaning of the source. The generated summary was reviewed claim by claim and numerical information was checked against the original source. The lab demonstrated that AI-generated summaries must remain faithful to the source and should not introduce new facts, change figures or remove important limitations. It also showed how AI can assist with creating structured report scaffolds for business use.
